@@ -2,8 +2,8 @@
 
 Create soft_uni database.<br>
 Work with database soft_uni. Commands which can be used:
-- Check for employee /then write employee name/.
-- Add address to employee /first write town name, write new address then write employee's name whose address you want to be updated/.
+- `Check for employee` /then write employee name/.
+- `Add address to employee` /first write town name, write new address then write employee's name whose address you want to be updated/.
 
 
 ### 3. Contains Employee<br>
