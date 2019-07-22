@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74e94782-dcb1-4ac1-8391-3cd946b4f381" name="Default Changelist" comment="" />
+    <list default="true" id="74e94782-dcb1-4ac1-8391-3cd946b4f381" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Engine.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="26" column="70" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="28" />
+            <state relative-caret-position="127">
+              <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
               <folding>
                 <element signature="e#351#352#0" expanded="true" />
                 <element signature="e#384#385#0" expanded="true" />
@@ -92,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="970" />
     <option name="y" value="40" />
     <option name="width" value="970" />
@@ -212,15 +214,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563773383389</updated>
-      <workItem from="1563773385437" duration="11725000" />
+      <workItem from="1563773385437" duration="11978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11725000" />
+    <option name="totallyTimeSpent" value="11978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="776" y="32" width="776" height="785" extended-state="0" />
+    <frame x="776" y="32" width="776" height="785" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Persistence" side_tool="true" />
@@ -241,7 +243,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49004593" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.07656968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -399,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Engine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="26" column="70" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="28" />
+        <state relative-caret-position="127">
+          <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
           <folding>
             <element signature="e#351#352#0" expanded="true" />
             <element signature="e#384#385#0" expanded="true" />
