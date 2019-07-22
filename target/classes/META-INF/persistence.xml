@@ -13,7 +13,7 @@
             <property name="hibernate.connection.username" value="root"/>
             <property name="hibernate.connection.password" value="Desi109pas"/>
             <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5Dialect"/>
-            <property name="hibernate.show_sql" value="true"/>
+            <!--<property name="hibernate.show_sql" value="true"/>-->
             </properties>
     </persistence-unit>
 </persistence>
