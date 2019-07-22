@@ -68,7 +68,7 @@ public class Engine implements Runnable {
      * 6. Adding a New Address and Updating Employee
      * Create a new address.
      * Set that address to an employee with a last name, given as an input.
-     * Write command &quot;add address&quot; to create  a new address in database soft_uni.
+     * Write command &quot;add address to employee&quot; to create  a new address in database soft_uni.
      */
     private void addAddressAndUpdateEmployee() {
         Scanner scanner = new Scanner(System.in);
